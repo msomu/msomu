@@ -1,6 +1,9 @@
-### Hi there 👋, Somasundaram Mahesh here, Android Dev.
-- 🔭 Currently working on [Disney+ HotStar Android app](https://play.google.com/store/apps/details?id=in.startv.hotstar)
-- 🌱 Currently exploring apps on [Jetpack Compose](https://developer.android.com/jetpack/compose), also doing some ML things on Android like [Face-Transformation](https://github.com/msomu/face-transformation)
-- 👯 I’m looking to collaborate on any libraries for Android or Apps that inspires me.
-- 💬 Ask me about Android development and design patterns on Android.
-- 📫 How to reach me: email: msomasundaram93@gmail.com twitter: www.twitter.com/msomuin
+### Hi there 👋, I'm Somasundaram Mahesh, an Android Developer.
+
+🔭 I'm currently working on the [Disney+ HotStar Android app](https://play.google.com/store/apps/details?id=in.startv.hotstar) and exploring the latest technology trends, including [Jetpack Compose](https://developer.android.com/jetpack/compose) and Multi Module Arch for Android.
+
+👯 I'm always on the lookout for new collaboration opportunities, whether it's contributing to existing Android libraries or developing exciting new apps that inspire me.
+
+💬 If you have any questions about Android development or design patterns on Android, feel free to ask me.
+
+📫 You can reach me via email at msomasundaram93@gmail.com or on Twitter at www.twitter.com/msomuin. Let's connect!
